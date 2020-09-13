@@ -1,4 +1,4 @@
-# admitkardfullstaack_backend# AdmitKard Frontend React Web App
+# admitkardfullstack_backend# AdmitKard Backend React Web App
 
 **It s a react application .**
 It includes 
@@ -16,7 +16,7 @@ It includes
  - No extra CSS framework,  CSS written natively
  - I have used heroku to host this backend  by using simple server.js file (nodejs)
 
- **LIVE DEMO LINK**   :   [AdmitKard Frontend  ]()  : 
+ **LIVE DEMO LINK**   :   [AdmitKard Backend  ]()  : 
 
 **YOUTUBE VIDEO DEMO LINK** 
 
