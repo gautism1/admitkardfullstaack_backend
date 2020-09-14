@@ -18,7 +18,6 @@ It includes
 
  **LIVE DEMO LINK**   :   [AdmitKard Backend ](https://admitkardfullstack-backend.herokuapp.com/)  : 
 
-**YOUTUBE VIDEO DEMO LINK** 
 
 **Installation** 
    
