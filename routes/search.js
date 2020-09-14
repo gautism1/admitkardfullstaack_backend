@@ -11,8 +11,7 @@ router.post('/search',async (req,res) =>{
     const {Topic}=req.body;
     const {tags}=req.body;
     let newentry={};
-    try{
-         
+    try{        
         {
                   newentry=new search({
                   string:string,
